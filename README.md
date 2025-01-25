@@ -19,7 +19,17 @@
 ## 安装步骤
 
 1. 克隆仓库
-2. 安装依赖
+2. 安装依赖: pip install requirements.txt
 3. 配置OpenAI API密钥
 4. 运行程序
 
+## 环境配置
+1. 复制 `.env.example` 文件并重命名为 `.env`
+
+2. 在 `.env` 文件中填入您的 API 配置：
+
+   ```
+
+   OPENAI_API_KEY=your_api_key_here
+
+   OPENAI_API_BASE=your_api_base_url_here
