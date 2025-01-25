@@ -4,7 +4,7 @@
 
 ## 系统演示
 
-https://github.com/renruntao/ResearchPolicy_RAG/assets/demo_interface.mp4
+https://github.com/user-attachments/assets/bdd0415b-0b88-4d8b-833b-e49e3f97e685
 
 ## 功能特点
 
