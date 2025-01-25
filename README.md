@@ -4,7 +4,7 @@
 
 ## 系统演示
 
-<video src="demo_interface.mp4" controls></video>
+https://user-images.githubusercontent.com/YOUR_USER_ID/ResearchPolicy_RAG/assets/demo_interface.mp4
 
 ## 功能特点
 
