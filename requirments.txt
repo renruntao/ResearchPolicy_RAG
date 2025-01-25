@@ -1,0 +1,5 @@
+streamlit==1.38.0
+openai==1.46.0
+llama-index==0.10.29
+python-dotenv==1.0.1
+PyPDF2==3.0.1
